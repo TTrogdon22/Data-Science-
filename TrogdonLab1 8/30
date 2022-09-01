@@ -1,0 +1,91 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyOdE4EToHbaZGafNpHmVxs9",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/TTrogdon22/Data-Science-/blob/main/TrogdonLab1%208/30\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "#Stats Notebook #2"
+      ],
+      "metadata": {
+        "id": "onHKAA_NahK4"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "$x$"
+      ],
+      "metadata": {
+        "id": "mruzbd74aly_"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "$y=mx+b$"
+      ],
+      "metadata": {
+        "id": "DJPEBN8QbQ9v"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "$/frac{a}{b}$"
+      ],
+      "metadata": {
+        "id": "iYhpO5YmbWgu"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "$a^{12345}$"
+      ],
+      "metadata": {
+        "id": "Bagnfw0qb3w2"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "$f(x)=\\frac{1}{\\sigma\\sqrt{2\\pi}}e^{-\\frac{1}{2}(\\frac{x-\\mu}{\\sigma})^2}$"
+      ],
+      "metadata": {
+        "id": "_RcY0e_cccHG"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [],
+      "metadata": {
+        "id": "omu-RFxNccKf"
+      }
+    }
+  ]
+}
